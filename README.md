@@ -1,6 +1,4 @@
-### Code Stats
-
-![zhaozhentao's github stats](https://github-readme-stats.vercel.app/api?username=zhaozhentao&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaozhentao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 <!--
 **zhaozhentao/zhaozhentao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
