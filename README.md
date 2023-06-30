@@ -1,5 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaozhentao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
+### 你好，世界 👋
+
+- 🌱 I’m currently learning Linux source code
+
 ### Personal website
 
 [http://coding.bozhen.live](http://coding.bozhen.live)
