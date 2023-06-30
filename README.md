@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaozhentao&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
-### personal website
+### Personal website
 
 [http://coding.bozhen.live](http://coding.bozhen.live)
 
